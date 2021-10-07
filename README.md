@@ -1,1 +1,1 @@
-# Infinite-Racing-Game
+# TrexGame
